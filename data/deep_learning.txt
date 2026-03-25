@@ -1,0 +1,1 @@
+Deep learning is a subset of machine learning that uses neural networks with multiple layers. It is widely used in computer vision, natural language processing, and speech recognition. Deep learning models automatically learn hierarchical representations from data.

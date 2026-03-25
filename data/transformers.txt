@@ -1,0 +1,1 @@
+Transformers are deep learning models based on attention mechanisms. They process entire sequences in parallel and are widely used in NLP tasks. Models like BERT and GPT are based on transformer architecture.
