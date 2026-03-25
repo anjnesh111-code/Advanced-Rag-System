@@ -211,3 +211,15 @@ GROQ_API_KEY=your_api_key_here
 This system doesn’t just generate answers.
 
 👉 It retrieves → ranks → validates → learns → improves.
+
+---
+
+## 👨‍💻 Author
+
+**Anjnesh Singh Tomar**
+
+* GitHub: https://github.com/anjnesh111-code
+* LinkedIn: https://www.linkedin.com/in/anjnesh-singh-tomar-05a4b3297
+
+---
+
